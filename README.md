@@ -2,6 +2,12 @@
 
 A monumental C++23 achievement: a blinking `67` rendered in oversized ASCII glory, changing color and style like the final, triumphant flourish of Western civilization.
 
+
+
+https://github.com/user-attachments/assets/0c7fb2a5-801d-4035-9c58-0dc889f88a4a
+
+
+
 ## Overview
 
 This program clears the terminal, prints a large ASCII-art `67`, makes it blink, and rotates through different pseudo-fonts and ANSI colors. In strictly practical terms, it does almost nothing. In cultural terms, it does everything.
